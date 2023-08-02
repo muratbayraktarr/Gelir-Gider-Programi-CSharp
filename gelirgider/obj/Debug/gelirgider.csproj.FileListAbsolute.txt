@@ -1,0 +1,14 @@
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\bin\Debug\gelirgider.exe.config
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\bin\Debug\gelirgider.exe
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\bin\Debug\gelirgider.pdb
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\obj\Debug\gelirgider.csproj.AssemblyReference.cache
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\obj\Debug\gelirgider.csproj.SuggestedBindingRedirects.cache
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\obj\Debug\gelirgider.ciftlik.resources
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\obj\Debug\gelirgider.ev.resources
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\obj\Debug\gelirgider.Form1.resources
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\obj\Debug\gelirgider.okul.resources
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\obj\Debug\gelirgider.Properties.Resources.resources
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\obj\Debug\gelirgider.csproj.GenerateResource.cache
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\obj\Debug\gelirgider.csproj.CoreCompileInputs.cache
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\obj\Debug\gelirgider.exe
+C:\Users\90507\Desktop\ByMazarat\ASP.NET Works\gelirgider\gelirgider\obj\Debug\gelirgider.pdb
